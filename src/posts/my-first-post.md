@@ -14,6 +14,10 @@ tags:
 
 ## This is a Heading h2
 
+```html
+<hr />
+```
+
 ###### This is a Heading h6
 
 ## Emphasis
